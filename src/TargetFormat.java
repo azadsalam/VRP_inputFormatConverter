@@ -38,6 +38,9 @@ public class TargetFormat
 		
 
 
+		out.print(totalVehicle);
+		out.println(" ; number of total vehicles");
+		
 		
 		for(int i=0;i<depotCount;i++)
 		{
